@@ -1,0 +1,35 @@
+#button {
+    color: rgb(38, 41, 40);
+    width: 150px;
+    height: 50px;
+    background-color: aquamarine;
+    font-size: 25px;
+
+    position: absolute; 
+    
+
+    
+}
+
+#yes {
+    color: rgb(38, 41, 40);
+    width: 150px;
+    height: 50px;
+    background-color: aquamarine;
+    font-size: 25px;
+}
+
+h1 {
+     text-align:center;
+
+}
+
+div.cat {
+    text-align: center;
+}
+
+
+#buttonYES {
+    text-align: right;
+   
+}
